@@ -1,0 +1,40 @@
+# UI
+streamlit
+
+# LangChain core ecosystem
+langchain
+langchain-core
+langchain-community
+
+# LangGraph
+langgraph
+
+# Groq / ChatGroq
+groq
+langchain-groq
+
+# Anthropic (Claude)
+anthropic
+langchain-anthropic
+
+# Environment variables
+python-dotenv
+
+
+# Hugging Face embeddings
+sentence-transformers
+huggingface-hub
+transformers
+torch
+
+# FAISS vector database
+faiss-cpu
+mediapipe
+opencv-python 
+numpy
+streamlit-webrtc
+
+
+fastapi
+uvicorn
+python-multipart
